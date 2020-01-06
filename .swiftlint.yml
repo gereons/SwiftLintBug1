@@ -1,0 +1,3 @@
+analyzer_rules:
+ - explicit_self
+ - unused_import
